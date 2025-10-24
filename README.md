@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/sherazrazadev/sherazrazadev/main/banner.svg" alt="Sheraz Raza Banner" />
+  <img src="https://i.postimg.cc/jq9xGtGZ/2.png" alt="Sheraz Raza Banner" />
 
   <h1>Hi, I’m Sheraz Raza 👋</h1>
   <p>
