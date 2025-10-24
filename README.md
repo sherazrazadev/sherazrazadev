@@ -84,9 +84,9 @@
 
 ## 🧰 Tech Stack
 
-`Python` · `FastAPI` · `Django` · `LLM Agents` · `PyTorch` · `TensorFlow` · `Hugging Face`  
-`Next.js` · `React` · `TypeScript` · `TailwindCSS`  
-`Docker` · `AWS` · `GitHub Actions` · `PostgreSQL`
+`Python`. `GenAI`· `Machine Learning` · `Deep learning` · `LLM Agents` · `PyTorch` · `TensorFlow` · `Hugging Face` . 
+  `React` ·`FastAPI`  · `NLP`·`FlaskAPI`  ·  `Pinecone` ·  `VectorDBs`.
+`Docker` · `AWS` · `GitHub Actions` · `PostgreSQL`· `MySQL` · `MongoDB`
 
 ---
 
